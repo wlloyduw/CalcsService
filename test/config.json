@@ -1,0 +1,16 @@
+{
+	"functionName":     "multiCalcService",	
+	"azureFunctionApp": "",
+	
+	"awsEndpoint":      "",
+	"googleEndpoint":   "",
+	"ibmEndpoint":      "",
+	"azureEndpoint":    "",
+	
+	"payload": {
+		"threads": 2,
+		"calcs": 300000,
+		"loops": 50,
+		"sleep": 0
+	}
+}
